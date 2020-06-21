@@ -32,4 +32,4 @@
 
 
 - [bấm vào đây để đến đường dẫn của bài học và thực hành](https://codesandbox.io/s/github/legiaquangvn/HTML-tutorial/tree/master/3-A-CSS-Structure) 
-
+  - trên browser, copy and paste link [`https://1ufq1.csb.app/my-page.html`](https://1ufq1.csb.app/my-page.html) để xem trang web.

@@ -1,7 +1,7 @@
 ## Cấu trúc của một trang web HTML
 
 - [bấm vào đây để đến đường dẫn của bài học](https://codesandbox.io/s/github/legiaquangvn/HTML-tutorial/tree/master/2-A-Webpage-Structure?file=/sample-web-page.html) 
-  - trong phần browser, copy and paste link `https://32tez.csb.app/sample-web-page.html` để xem trang web
+  - trên browser, copy and paste link [`https://32tez.csb.app/sample-web-page.html`](https://32tez.csb.app/sample-web-page.html) để xem trang web.  
 
 - Một trang web có tận cùng là đuôi `.html`, bạn cũng có thể gọi đó là một trang HTML vì nó sử dụng ngôn ngữ HTML để môt tả nội dung.
 - Bạn cứ hình dung một trang HTML là một trang văn bản. Cấu trúc của nó bao gồm
